@@ -19,6 +19,7 @@ Our modular architecture separates concerns across specialized repositories:
 - **autobox-ui**: Intuitive web interface for simulation management and real-time monitoring
 - **autobox-mocks**: Synthetic data generation for testing and development workflows
 - **autobox-mocks-api**: Serverless mock endpoints for frontend development and integration testing
+- **autobox-engine**: Multi-agent AI simulation engine to orchestrate and manage complex multi-agent scenarios in isolation
 
 ## Use Cases
 
@@ -28,6 +29,13 @@ Autobox enables practical applications in:
 - Multi-stakeholder negotiation and consensus building
 - Scenario exploration and strategic planning
 - Research into emergent behaviors in multi-agent systems
+
+## Documentation
+
+- [What is this about?](https://margostino.com/posts/the-next-layer-of-intelligence-part-1)
+- [Autobox UI](https://github.com/Autobox-AI/autobox-ui)
+- [Autobox Engine](https://github.com/Autobox-AI/autobox-engine)
+- [Autobox Mocks API](https://github.com/Autobox-AI/autobox-mocks-api)
 
 ---
 
