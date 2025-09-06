@@ -36,7 +36,7 @@ Autobox enables practical applications in:
 - [Autobox UI](https://github.com/Autobox-AI/autobox-ui)
 - [Autobox Engine](https://github.com/Autobox-AI/autobox-engine)
 - [Autobox Mocks API](https://github.com/Autobox-AI/autobox-mocks-api)
-- [DEMO I](youtube.com/watch?v=He1DahMG-Kc&feature=youtu.be)
+- [DEMO I](https://www.youtube.com/watch?v=He1DahMG-Kc)
 - [DEMO II](https://autobox-ui.vercel.app/)
 
 ---
