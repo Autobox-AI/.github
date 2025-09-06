@@ -42,12 +42,12 @@ Autobox provides a platform for experimentation and deployment across research, 
 
 ## Documentation
 
-📖 [The Next Layer of Intelligence (Part 1)](https://margostino.com/posts/the-next-layer-of-intelligence-part-1)
-🎨 [Autobox UI](https://github.com/Autobox-AI/autobox-ui)
-🧠 [Autobox Engine](https://github.com/Autobox-AI/autobox-engine)
-⚡ [Autobox Mocks API](https://github.com/Autobox-AI/autobox-mocks-api)
-▶️ [Demo I](https://www.youtube.com/watch?v=He1DahMG-Kc)
-🌐 [Demo II (Live UI)](https://autobox-ui.vercel.app/)
+📖 <a href="https://margostino.com/posts/the-next-layer-of-intelligence-part-1" target="_blank">The Next Layer of Intelligence (Part 1)</a>
+🎨 <a href="https://github.com/Autobox-AI/autobox-ui" target="_blank">Autobox UI</a>
+🧠 <a href="https://github.com/Autobox-AI/autobox-engine" target="_blank">Autobox Engine</a>
+⚡ <a href="https://github.com/Autobox-AI/autobox-mocks-api" target="_blank">Autobox Mocks API</a>
+▶️ <a href="https://www.youtube.com/watch?v=He1DahMG-Kc" target="_blank">Demo I</a>
+🌐 <a href="https://autobox-ui.vercel.app/" target="_blank">Demo II (Live UI)</a>
 
 ---
 
