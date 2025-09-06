@@ -1,4 +1,4 @@
-# 🧩 Autobox-AI — Building The next Simulation Operative System
+# 🧩 Building The Next Simulation Operative System
 
 Autobox-AI is an open-source initiative crafting the infrastructure layer for multi-agent intelligence.
 We build the tools and frameworks that let AI agents collaborate, negotiate, and solve complex problems inside scalable simulations — a sandbox for the future of autonomous systems.
