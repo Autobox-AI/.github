@@ -19,7 +19,7 @@ The world is full of uncertainty — markets shift, systems fail, agents behave 
 
 Autobox gives researchers, engineers, and decision-makers a safe space to experiment — turning uncertainty into clarity before reality does.
 
-Autobox-AI is an open-source initiative crafting the infrastructure layer for multi-agent intelligence.
+Autobox is an open-source initiative crafting the infrastructure layer for multi-agent intelligence.
 We build the tools and frameworks that let AI agents collaborate, negotiate, and solve complex problems inside scalable simulations — a sandbox for the future of autonomous systems.
 
 Our mission is to accelerate research and engineering of agent-based AI by providing production-grade orchestration, monitoring, and developer tooling.
@@ -41,7 +41,7 @@ We create production-ready infrastructure for multi-agent AI systems, focusing o
 
 ## 🏗 Core Projects
 
-Autobox-AI is structured as a collection of specialized repositories that plug into a unified ecosystem:
+Autobox is structured as a collection of specialized repositories that plug into a unified ecosystem:
 
 - **autobox-api**: High-performance backend orchestrating agent lifecycles and inter-agent communication
 - **autobox-ui**: Intuitive web interface for simulation management and real-time monitoring
@@ -70,6 +70,6 @@ Autobox provides a platform for experimentation and deployment across research, 
 
 ---
 
-💡 Autobox-AI is building the next laboratory for AI-driven simulations.
+💡 Autobox is building the next laboratory for AI-driven simulations.
 
 🤝 Join us as we explore how multi-agent intelligence evolves when given the right infrastructure.
